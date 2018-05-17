@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bg.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/whitepixel.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/pad.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/padarea.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/Font.spritefont</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/AButton.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BButton.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/XButton.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_walk1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_walk2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/50black.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bat.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/pistol.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/rifle.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bat_gun.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/pistol_gun.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/rifle_gun.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/lantern.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/light.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_punch1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_punch2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_punch3.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_punch4.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_punch5.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/character_punch6.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG3.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG4.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/ammobox.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/Fire1.PNG</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/Fire2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/gunshot1.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/gunshot2.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/gunready.mp3</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG5.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG6.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG7.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG8.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/BG9.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/fence.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/settings.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/mp7a1.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/mp7a1_gun.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/mp7a1_icon.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/menu_background.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/beat.mp3</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_punch1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_punch2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_punch3.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_punch4.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_punch5.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_punch6.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_walk1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/enemy_walk2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/big_enemy.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/big_enemy_walk1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/big_enemy_walk2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/gunshop_bg.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/elevator_music.mp3</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/ka_ching.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/Footsteps1.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/Footsteps2.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/Footsteps3.wav</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/gunshop_img.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport3.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport4.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport5.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport6.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport7.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport8.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport9.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport10.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/teleport11.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/shadow.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/gun_light.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bg2_1.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bg2_1_prop.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bg2_2.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bg2_3.png</File>
+    <File>C:/Users/Sebastiaan/Documents/Visual Studio 2017/Projects/Mobile Game/Mobile Game/Content/bg2_4.png</File>
+  </SourceFiles>
+</SourceFileCollection>

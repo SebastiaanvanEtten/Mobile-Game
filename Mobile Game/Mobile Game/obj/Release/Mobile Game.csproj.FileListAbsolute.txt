@@ -1,0 +1,19 @@
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\Mobile Game.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\Mobile Game.pdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\MonoGame.Framework.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\MonoGame.Framework.xml
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\Mobile Game.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\Mobile Game.pdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\res\values\strings.xml
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\res\drawable\icon.png
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\res\drawable\splash.png
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\res\values\styles.xml
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\R.cs.flag
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\uploadflags.txt
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\Mobile Game.csprojResolveAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\game.game.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\game.game-Signed.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\android\bin\game.game.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Release\Mobile Game.dll.mdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\android\assets\Mobile Game.dll.mdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Release\Mobile Game.csproj.CoreCompileInputs.cache

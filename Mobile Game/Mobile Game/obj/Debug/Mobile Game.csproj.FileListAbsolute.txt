@@ -1,0 +1,19 @@
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\Mobile Game.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\Mobile Game.pdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\Mobile Game.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\Mobile Game.pdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\res\values\strings.xml
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\res\drawable\icon.png
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\res\drawable\splash.png
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\res\values\styles.xml
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\R.cs.flag
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\uploadflags.txt
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\game.game.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\game.game-Signed.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\android\bin\game.game.apk
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\Mobile Game.csprojResolveAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\bin\Android\AnyCPU\Debug\Mobile Game.dll.mdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\android\assets\Mobile Game.dll.mdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\Mobile Game\Mobile Game\obj\Debug\Mobile Game.csproj.CoreCompileInputs.cache
